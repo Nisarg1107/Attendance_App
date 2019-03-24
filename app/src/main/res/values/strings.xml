@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BVM ATTENDANCE</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="get_started">Get Started</string>
+    <string name="e_c">E.C</string>
+    <string name="select_department">Select Department</string>
+    <string name="electronics_and_communication">Electronics and Communication</string>
+    <string name="submit">Submit</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="sick">Sick</string>
+    <string name="studentid">StudentID</string>
+</resources>

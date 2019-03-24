@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816171837329",
+    "firebase_url": "https://bvmfirebaseproject-d0b52.firebaseio.com",
+    "project_id": "bvmfirebaseproject-d0b52",
+    "storage_bucket": "bvmfirebaseproject-d0b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816171837329:android:21027aca28065871",
+        "android_client_info": {
+          "package_name": "e.idea.bvmattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816171837329-s2j3j0tdesfil4gf7fjcmniolcad99ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.idea.bvmattendance",
+            "certificate_hash": "6995de6d031b143187c1c68f44d27d5b70f4f6e2"
+          }
+        },
+        {
+          "client_id": "816171837329-uefci9mkubcaio5mc60tv3hde21agrpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVQ-coXbbEQJpZ3F0o5jjh_u8uoxzaWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816171837329-uefci9mkubcaio5mc60tv3hde21agrpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
